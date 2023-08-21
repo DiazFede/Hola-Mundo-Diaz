@@ -1,2 +1,1 @@
-# Hola-Mundo-Diaz
-Ejercicio de aplicacion del tema de repositorios
+Federico Diaz Suero :tada:
